@@ -20,24 +20,24 @@ El proyecto "Amigo Secreto" es una aplicación web interactiva desarrollada en H
 
 <h3 align="center">Funcionalidades Principales:</h3>
 
-<p2 align="left"><br> 1.:inbox_tray: Agregar Amigos:</br>
+<p2 align="left"><br>:inbox_tray: 1.Agregar Amigos:</br>
 
 Los usuarios pueden ingresar nombres en un campo de texto.
 El sistema valida que el nombre no esté vacío ni duplicado en la lista.
 Los amigos se agregan dinámicamente a una lista en pantalla.</p2>
 
-<p3 align="left"><br> 2.:pencil: Visualización de la Lista:</br>
+<p3 align="left"><br>:pencil: 2.Visualización de la Lista:</br>
 
 Cada nombre ingresado se muestra en una lista actualizada en tiempo real.
 La lista se actualiza automáticamente cada vez que se añade o elimina un amigo.</p3>
 
-<p4 align="left"><br> 3.:clubs: Sorteo de Amigo Secreto:</br>
+<p4 align="left"><br>:clubs: 3.Sorteo de Amigo Secreto:</br>
 
 Se puede realizar un sorteo aleatorio de un "amigo secreto".
 El nombre sorteado se elimina de la lista para evitar repeticiones en sorteos futuros.
 Se garantiza que cada amigo solo pueda ser sorteado una vez.</p4>
 
-<p5 align="left"><br> 4.:warning: Validaciones:</br>
+<p5 align="left"><br>:warning: 4.Validaciones:</br>
 
 Se requiere un mínimo de tres amigos para iniciar el sorteo.
 Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin suficientes participantes. </p5>
