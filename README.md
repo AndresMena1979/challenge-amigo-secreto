@@ -1,4 +1,4 @@
-![logo](https://imgur.com/3BJs71h)
+![Hithub](https://imgur.com/3BJs71h)
 
 <h1 align="center"> Challenge-Amigo-Secreto </h1>
 
@@ -6,7 +6,7 @@
 
 
 
-<h2  align="center"><br>Descripción del Proyecto: Amigo Secreto<br/></h2>
+<h2  align="center"><br>:page_facing_up:Descripción del Proyecto: Amigo Secreto<br/></h2>
 
 
 
