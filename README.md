@@ -1,4 +1,4 @@
-![Hithub](https://imgur.com/3BJs71h)
+![Hithub](https://i.imgur.com/3BJs71h.png)
 
 <h1 align="center"> Challenge-Amigo-Secreto </h1>
 
