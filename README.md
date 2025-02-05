@@ -42,9 +42,9 @@ Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin s
 
 <p6 align="left"><br>🎯 Objetivos del Proyecto:</b>
 
-Fortalecer habilidades en lógica de programación.
-Practicar el manejo de arreglos y bucles en JavaScript.
-Implementar funciones para validar, agregar, eliminar y mostrar datos dinámicamente.
-Desarrollar una interfaz interactiva utilizando HTML y CSS.</p6>
+1.Fortalecer habilidades en lógica de programación.
+2.Practicar el manejo de arreglos y bucles en JavaScript.
+3.Implementar funciones para validar, agregar, eliminar y mostrar datos dinámicamente.
+
 
 
