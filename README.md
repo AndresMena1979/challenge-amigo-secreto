@@ -38,3 +38,13 @@ Se garantiza que cada amigo solo pueda ser sorteado una vez.</p4>
 
 Se requiere un mínimo de tres amigos para iniciar el sorteo.
 Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin suficientes participantes. </p5>
+
+
+<p6 align="left"><br>🎯 Objetivos del Proyecto:</b>
+
+Fortalecer habilidades en lógica de programación.
+Practicar el manejo de arreglos y bucles en JavaScript.
+Implementar funciones para validar, agregar, eliminar y mostrar datos dinámicamente.
+Desarrollar una interfaz interactiva utilizando HTML y CSS.</p6>
+
+
