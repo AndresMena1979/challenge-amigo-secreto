@@ -10,7 +10,7 @@
 
 
 
- <h3  align="center">Nombre del Proyecto: Amigo Secreto</h3>
+ <h3  align="center"><br>Nombre del Proyecto: Amigo Secreto</h3>br</h3>
 
 <p1 align="center"> Descripción General:
 
