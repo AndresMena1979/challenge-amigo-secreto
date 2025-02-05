@@ -11,7 +11,7 @@
 
 
 📋 
-<h3  align="center">Nombre del Proyecto: Amigo Secreto</h3>
+<h3  align="center"><br>Nombre del Proyecto: Amigo Secreto</h3>br</h3>
 
 <p1 align="center"> Descripción General:
 El proyecto "Amigo Secreto" es una aplicación web interactiva desarrollada en HTML, CSS y JavaScript. Su objetivo principal es permitir a los usuarios agregar una lista de amigos y realizar un sorteo aleatorio para asignar un "amigo secreto" a cada participante, asegurando que no se repitan los nombres sorteados.</p1>
