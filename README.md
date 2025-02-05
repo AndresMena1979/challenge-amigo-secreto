@@ -2,16 +2,16 @@
 
 <h1 align="center"> Challenge-Amigo-Secreto </h1>
 
-<p  align="center"> Proyecto challenge del juego Amigo Secreto de  Alura Latam</p>
+<p  align="center"><br> Proyecto challenge del juego Amigo Secreto de  Alura Latam<br/></p>
 
 
 
-<h2  align="center">Descripción del Proyecto: Amigo Secreto</h2>
+<h2  align="center"><br>Descripción del Proyecto: Amigo Secreto<br/></h2>
 
 
 
-📋 
-<h3  align="center"><br>Nombre del Proyecto: Amigo Secreto</h3>br</h3>
+📋 <h3  align="center"><br>Nombre del Proyecto: Amigo Secreto</h3>br</h3>
+
 
 <p1 align="center"> Descripción General:
 El proyecto "Amigo Secreto" es una aplicación web interactiva desarrollada en HTML, CSS y JavaScript. Su objetivo principal es permitir a los usuarios agregar una lista de amigos y realizar un sorteo aleatorio para asignar un "amigo secreto" a cada participante, asegurando que no se repitan los nombres sorteados.</p1>
