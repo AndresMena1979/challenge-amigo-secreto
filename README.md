@@ -6,4 +6,4 @@
 
 
 
-<p1  align="center">Descripción del Proyecto</p1>
+<h2  align="center">Descripción del Proyecto</h2>
