@@ -1,6 +1,6 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 var ingresaAmigos=[];
-
+var numeroMaximo= 10;
 
 
 function agregarAmigo() {
@@ -12,7 +12,7 @@ function agregarAmigo() {
       
     if (capturaAmigos === "")                                 // envia mensaje si la caja de texto esta vacia y dan clic en el boton Añadir
         {
-          return alert("Por favor, inserte un nombre." );
+          return alert("Por favor, inserte un nombre de un amigo." );
 
     } else
      {
@@ -35,7 +35,7 @@ function agregarAmigo() {
         
         ingresaAmigos.push(capturaAmigos);
 
-       
+        agregarAmigosLista(ingresaAmigos);           // llama a la funcion agregarElementosLista
         reiniciaCajaTexto();                         //funcion para borrar nombre de la caja de texto    
         
         
@@ -46,7 +46,7 @@ function agregarAmigo() {
  
     
    
-   agregarAmigosLista(ingresaAmigos);                 // llama a la funcion agregarElementosLista
+                    
 
 
 }
@@ -74,6 +74,37 @@ function agregarAmigosLista(elemento){    //funcion para agregar nombres a una l
 function reiniciaCajaTexto() {                  //funcion para borrar nombre digitado de la caja de texto
 
     document.getElementById("amigo").value="";
+
+}
+
+
+
+function sortearAmigo(){        //función que seleccione de manera aleatoria uno de los nombres almacenados en el array ingresaAmigos
+   
+
+    
+      let numeroGenerado = Math.floor(Math.random() * ingresaAmigos.length); //genera el numero aleatorio usando el array ingresaAmigos.length
+
+   
+  
+      if (ingresaAmigos.length < 2) {                          // revisa que como minimo el array tenga dos amigos agregados para permitir jugar
+        alert("Por favor, ingresa al menos 2 amigos.");
+        return;
+    }
+  
+      else {
+
+        let resultado = document.getElementById("resultado"); 
+        resultado.innerHTML = "";
+        resultado.innerHTML += `Tu amigo secreto es: ${ingresaAmigos[numeroGenerado]}`;   //genera el aviso de quien es el amigo secreto escogido al azar
+
+         
+
+    
+   }
+
+   //console.log(ingresaAmigos);  
+   
 
 }
 
