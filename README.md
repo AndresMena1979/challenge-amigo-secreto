@@ -1,1 +1,1 @@
-https://imgur.com/a/EwiRx3Q
+https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.guuLH2Y9QMONP0QZKtTIRQHaEK%26pid%3DApi&sp=1738788883T4ec58b4a56463455ce5033868d85850fee39aa6b744c5c2c781888d7a864d818
