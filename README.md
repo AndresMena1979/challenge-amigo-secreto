@@ -13,6 +13,9 @@
  📋<h3  align="center">Nombre del Proyecto: Amigo Secreto</h3>
 
 <p1 align="center"> Descripción General:
+
+Este proyecto es una excelente base para aprender conceptos fundamentales de programación web, como la manipulación del DOM, validación de formularios y generación de resultados aleatorios en JavaScript.
+
 El proyecto "Amigo Secreto" es una aplicación web interactiva desarrollada en HTML, CSS y JavaScript. Su objetivo principal es permitir a los usuarios agregar una lista de amigos y realizar un sorteo aleatorio para asignar un "amigo secreto" a cada participante, asegurando que no se repitan los nombres sorteados.</p1>
 
 <h3 align="center">Funcionalidades Principales:</h3>
@@ -40,11 +43,20 @@ Se requiere un mínimo de tres amigos para iniciar el sorteo.
 Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin suficientes participantes. </p5>
 
 
-<h4 align="center"><br>🎯 Objetivos del Proyecto:</b></h4>
+<h3 align="center"><br>🎯 Objetivos del Proyecto:</b></h3>
 
 <br>1.Fortalecer habilidades en lógica de programación.</br>
 <br>2.Practicar el manejo de arreglos y bucles en JavaScript.</br>
 <br>3.Implementar funciones para validar, agregar, eliminar y mostrar datos dinámicamente.</br>
+
+
+
+<h3 align="center"><br>💻 Tecnologías Utilizadas:</b></h3>
+
+<br>HTML: Estructura básica de la página web.</br>
+<br>CSS: Estilización para una interfaz visual atractiva.</br>
+<br>JavaScript: Lógica para la manipulación del DOM, validación de datos y generación aleatoria de amigos secretos.</br>
+
 
 
 
