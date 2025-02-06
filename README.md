@@ -1,7 +1,7 @@
 <h1 align="center"> Challenge-Amigo-Secreto 
 
   
-  !["imagen presentacion](https://imgur.com/RsjHWTc)</h1>
+  !["imagen presentacion](https://i.imgur.com/RsjHWTc.png)</h1>
    
 
 <p  align="center"><br> Proyecto challenge del juego Amigo Secreto de  Alura Latam<br/></p>
