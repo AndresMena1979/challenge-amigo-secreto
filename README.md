@@ -4,8 +4,7 @@
   !["imagen presentacion](https://i.imgur.com/RsjHWTc.png)</h1>
    
 
-<p  align="center"><br> Proyecto challenge del juego Amigo Secreto de  Alura Latam
-                        Principiante en Programación G8 - ONE <br/></p>
+<p  align="center"><br> Principiante en Programación G8 - ONE. Proyecto challenge del juego Amigo Secreto de Alura Latam <br/></p>
 
 
 <h2  align="center"><br>:page_facing_up:Descripción del Proyecto: Amigo Secreto<br/></h2>
