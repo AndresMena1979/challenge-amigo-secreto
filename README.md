@@ -1,4 +1,4 @@
-![GitHub Stars](https://img.shields.io/github/stars/AndresMena1979
+![GitHub Stars](https://img.shields.io/github/stars/AndresMena1979/challenge-amigo-secreto
 ?style=social)
 
 <h1 align="center"> Challenge-Amigo-Secreto 
