@@ -67,3 +67,5 @@ Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin s
 
 <h4 align="center">https://andresmena1979.github.io/challenge-amigo-secreto/</h4>
 
+<h3 align="center"><br>Desarrollador</br></h3>
+<p align="center">Andres Fernando Mena G</p>
