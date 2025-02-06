@@ -1,4 +1,5 @@
-![GitHub Org's stars](https://img.shields.io/badge/GitHub-Red Social-blue)
+![GitHub Stars](https://img.shields.io/github/stars/challenge-amigo-secreto
+?style=flat)
 
 <h1 align="center"> Challenge-Amigo-Secreto 
   
