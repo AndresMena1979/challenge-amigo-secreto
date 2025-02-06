@@ -1,6 +1,9 @@
 <h1 align="center"> Challenge-Amigo-Secreto 
 
-  ![Hithub](https://i.imgur.com/3BJs71h.png) </h1>
+  
+  https://i.imgur.com/h0VVeyH.png</h1>
+
+ 
 
 <p  align="center"><br> Proyecto challenge del juego Amigo Secreto de  Alura Latam<br/></p>
 
