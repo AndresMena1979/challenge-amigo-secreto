@@ -1,7 +1,7 @@
 <h1 align="center"> Challenge-Amigo-Secreto 
 
   
-  !["imagen presentacion](https://i.imgur.com/h0VVeyH.png)</h1>
+  !["imagen presentacion](https://imgur.com/a/cHvZNh8)</h1>
   
 
  
