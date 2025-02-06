@@ -1,5 +1,5 @@
 ![GitHub Stars](https://img.shields.io/github/stars/AndresMena1979
-?style=flat)
+?style=social)
 
 <h1 align="center"> Challenge-Amigo-Secreto 
   
