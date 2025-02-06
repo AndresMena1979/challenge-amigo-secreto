@@ -1,8 +1,7 @@
 <h1 align="center"> Challenge-Amigo-Secreto 
-
   
-  !["imagen presentacion](https://i.imgur.com/RsjHWTc.png)</h1>
-   
+   ![amigo secreto](https://github.com/user-attachments/assets/84070e05-008b-439a-8e37-d545ead7c4bb)</h1>
+
 
 <p  align="center"><br> Principiante en Programación G8 - ONE. Proyecto challenge del juego Amigo Secreto de Alura Latam <br/></p>
 
