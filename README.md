@@ -1,4 +1,4 @@
-![GitHub Stars](https://img.shields.io/github/stars/challenge-amigo-secreto
+![GitHub Repositorio](https://img.shields.io/github/stars/challenge-amigo-secreto
 ?style=flat)
 
 <h1 align="center"> Challenge-Amigo-Secreto 
