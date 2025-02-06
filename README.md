@@ -1,4 +1,4 @@
-![GitHub Org's stars](https://img.shields.io/badge/{GitHub}-{https://github.com/AndresMena1979}-{blue})
+![GitHub Org's stars](https://img.shields.io/badge/GitHub-Red Social-blue)
 
 <h1 align="center"> Challenge-Amigo-Secreto 
   
