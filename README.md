@@ -58,11 +58,11 @@ Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin s
 <br>CSS: Estilización para una interfaz visual atractiva.</br>
 <br>JavaScript: Lógica para la manipulación del DOM, validación de datos y generación aleatoria de amigos secretos.</br>
 
-<h3 align="center"><br> align="center" Acceso al proyecto</br></h3>
+<h3 align="center"><br>Acceso al proyecto</br></h3>
 
 https://github.com/AndresMena1979/challenge-amigo-secreto
 
-<h3 align="center"><br> align="center"Desde este link, puedes acceder a jugar</br></h3>
+<h3 align="center"><br>Desde este link, puedes acceder a jugar</br></h3>
 
 
 
