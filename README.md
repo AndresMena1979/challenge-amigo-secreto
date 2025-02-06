@@ -1,5 +1,29 @@
 ![GitHub Stars](https://img.shields.io/github/stars/AndresMena1979/challenge-amigo-secreto?style=social)
 
+##Índice
+
+*[Título e imagen de portada](#Título-e-imagen-de-portada)
+
+*[Insignias](#insignias)
+
+*[Índice](#índice)
+
+*[Descripción del proyecto](#descripción-del-proyecto)
+
+*[Estado del proyecto](#Estado-del-proyecto)
+
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+*[Acceso al proyecto](#acceso-proyecto)
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+*[Conclusión](#conclusión)
+
+
+
 <h1 align="center"> Challenge-Amigo-Secreto 
   
    ![amigo secreto](https://github.com/user-attachments/assets/84070e05-008b-439a-8e37-d545ead7c4bb)</h1>
