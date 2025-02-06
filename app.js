@@ -12,6 +12,7 @@ function agregarAmigo() {
       
     if (capturaAmigos === "")                                 // envia mensaje si la caja de texto esta vacia y dan clic en el boton Añadir
         {
+          
           return alert("Por favor, inserte un nombre de un amigo." );
 
     } else
@@ -20,20 +21,20 @@ function agregarAmigo() {
         
         if(ingresaAmigos.includes(capturaAmigos)){            //verifica que el amigo no este repetido, y si lo esta, borra el valor en la caja de texto y llama de nuevo a la funcion
 
-        alert ("amigo repetido");                            //genera mensaje que especifica que el amigo introducido esta reducido 
+        alert ("Este amigo ya esta en la lista");                            //genera mensaje que especifica que el amigo introducido esta reducido 
 
         
         reiniciaCajaTexto();                                //funcion para borrar nombre de la caja de texto 
         
 
            return agregarAmigo();                          //se llama nuevamente a la funcion para que se pueda agregar otro amigo
+           
+        
+    }else{                                                
+
 
         
-    }else{                                                // ingresa al nuevo amigo a la lista y lo envia al final de esta
-
-
-        
-        ingresaAmigos.push(capturaAmigos);
+        ingresaAmigos.push(capturaAmigos);               // ingresa al nuevo amigo a la lista y lo envia al final de esta
 
         agregarAmigosLista(ingresaAmigos);               // llama a la funcion agregarElementosLista
         reiniciaCajaTexto();                            //funcion para borrar nombre de la caja de texto    
@@ -87,8 +88,8 @@ function sortearAmigo(){                        //función que seleccione de man
        
    
   
-      if (ingresaAmigos.length < 2) {                                                     // revisa que como minimo el array tenga dos amigos agregados para permitir jugar
-        alert("Por favor, ingresa al menos 2 amigos.");
+      if (ingresaAmigos.length < 1) {                                                     // revisa que como minimo el array tenga dos amigos agregados para permitir jugar
+        alert("Por favor, ingresa al menos 1 amigos.");
         return;
     } 
   
