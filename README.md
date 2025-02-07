@@ -1,19 +1,22 @@
 ![GitHub Stars](https://img.shields.io/github/stars/AndresMena1979/challenge-amigo-secreto?style=social)
 
-## Índice
-
-1. [Descripción del Proyecto](#descripcion-del-proyecto)
-2. [Funcionalidades Principales](#funcionalidades-principales)
-   - [Agregar Amigos](#agregar-amigos)
-   - [Visualización de la Lista](#visualizacion-de-la-lista)
-   - [Sorteo de Amigo Secreto](#sorteo-de-amigo-secreto)
-   - [Validaciones](#validaciones)
-3. [Objetivos del Proyecto](##objetivos-del-proyecto)
-4. [Tecnologías Utilizadas](#tecnologias-utilizadas)
-5. [Acceso al Proyecto](#acceso-al-proyecto)
-6. [Jugar en Línea](#jugar-en-linea)
-7. [Desarrollador](#desarrollador)
-8. [Conclusión](#conclusion)
+<h2>📌 Índice</h2>
+<ul>
+  <li><a href="#descripcion-del-proyecto">Descripción del Proyecto</a></li>
+  <li><a href="#funcionalidades-principales">Funcionalidades Principales</a>
+    <ul>
+      <li><a href="#agregar-amigos">Agregar Amigos</a></li>
+      <li><a href="#visualizacion-de-la-lista">Visualización de la Lista</a></li>
+      <li><a href="#sorteo-de-amigo-secreto">Sorteo de Amigo Secreto</a></li>
+      <li><a href="#validaciones">Validaciones</a></li>
+    </ul>
+  </li>
+  <li><a href="#objetivos-del-proyecto">🎯 Objetivos del Proyecto</a></li>
+  <li><a href="#tecnologias-utilizadas">🛠 Tecnologías Utilizadas</a></li>
+  <li><a href="#acceso-al-proyecto">🚀 Acceso al Proyecto</a></li>
+  <li><a href="#jugar-en-linea">🎮 Jugar en Línea</a></li>
+  <li><a href="#desarrollador">👨‍💻 Desarrollador</a></li>
+</ul>
 
 
 <h1 align="center"> Challenge-Amigo-Secreto 
