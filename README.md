@@ -1,14 +1,12 @@
 ![GitHub Stars](https://img.shields.io/github/stars/AndresMena1979/challenge-amigo-secreto?style=social)
 
-##Índice
+Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
 *[Insignias](#insignias)
 
-*[Índice](#índice)
-
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[Descripción del proyecto](#Descripción del Proyecto)
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
