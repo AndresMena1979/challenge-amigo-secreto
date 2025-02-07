@@ -6,7 +6,7 @@
 
 *[Insignias](#insignias)
 
-*[Descripción del Proyecto: Amigo Secreto](#Descripción- del- Proyecto:- Amigo- Secreto)
+*[Descripción del Proyecto: Amigo Secreto](#Descripción-del-Proyecto:-Amigo-Secreto)
 
 *[Funcionalidades Principales](#Funcionalidades-Principales)
 
