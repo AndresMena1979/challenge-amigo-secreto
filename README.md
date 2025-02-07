@@ -13,7 +13,7 @@
 5. [Acceso al Proyecto](#acceso-al-proyecto)
 6. [Jugar en Línea](#jugar-en-linea)
 7. [Desarrollador](#desarrollador)
-
+8. [Conclusión](#conclusion)
 
 
 <h1 align="center"> Challenge-Amigo-Secreto 
@@ -31,8 +31,6 @@
  <h3  align="center"><br>Nombre del Proyecto: Amigo Secreto</br></h3>
 
 <p1 align="center"> Descripción General:
-
-Este proyecto es una excelente base para aprender conceptos fundamentales de programación web, como la manipulación del DOM, validación de formularios y generación de resultados aleatorios en JavaScript.
 
 El proyecto "Amigo Secreto" es una aplicación web interactiva desarrollada en HTML, CSS y JavaScript. Su objetivo principal es permitir a los usuarios agregar una lista de amigos y realizar un sorteo aleatorio para asignar un "amigo secreto" a cada participante, asegurando que no se repitan los nombres sorteados.</p1>
 
@@ -86,3 +84,7 @@ Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin s
 
 <h3 align="center"><br>Desarrollador</br></h3>
 <p align="center">Andres Fernando Mena G</p>
+
+<h3 align="center"Conclusión</h3>
+   
+<p align="center">Este proyecto es una excelente base para aprender conceptos fundamentales de programación web, como la manipulación del DOM, validación de formularios y generación de resultados aleatorios en JavaScript. </p>
