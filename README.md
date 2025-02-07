@@ -85,6 +85,6 @@ Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin s
 <h3 align="center"><br>Desarrollador</br></h3>
 <p align="center">Andres Fernando Mena G</p>
 
-<h3 align="center>"Conclusión</h3>
+<h3 align="center">Conclusión</h3>
    
-
+Este proyecto es una excelente base para aprender conceptos fundamentales de programación web, como la manipulación del DOM, validación de formularios y generación de resultados aleatorios en JavaScript.
