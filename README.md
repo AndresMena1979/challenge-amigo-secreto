@@ -1,6 +1,6 @@
 ![GitHub Stars](https://img.shields.io/github/stars/AndresMena1979/challenge-amigo-secreto?style=social)
 
-<h2>📌 Índice</h2>
+<h2> Índice</h2>
 <ul>
   <li><a href="#descripcion-del-proyecto">Descripción del Proyecto</a></li>
   <li><a href="#funcionalidades-principales">Funcionalidades Principales</a>
@@ -11,11 +11,11 @@
       <li><a href="#validaciones">Validaciones</a></li>
     </ul>
   </li>
-  <li><a href="#objetivos-del-proyecto">🎯 Objetivos del Proyecto</a></li>
-  <li><a href="#tecnologias-utilizadas">🛠 Tecnologías Utilizadas</a></li>
-  <li><a href="#acceso-al-proyecto">🚀 Acceso al Proyecto</a></li>
-  <li><a href="#jugar-en-linea">🎮 Jugar en Línea</a></li>
-  <li><a href="#desarrollador">👨‍💻 Desarrollador</a></li>
+  <li><a href="#objetivos-del-proyecto">Objetivos del Proyecto</a></li>
+  <li><a href="#tecnologias-utilizadas">Tecnologías Utilizadas</a></li>
+  <li><a href="#acceso-al-proyecto">Acceso al Proyecto</a></li>
+  <li><a href="#jugar-en-linea">Jugar en Línea</a></li>
+  <li><a href="#desarrollador">Desarrollador</a></li>
 </ul>
 
 
