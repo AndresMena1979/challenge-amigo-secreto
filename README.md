@@ -30,8 +30,8 @@
 <h2  align="center"><br>:page_facing_up:Descripción del Proyecto: Amigo Secreto<br/></h2>
 
 
+ <h2  align="center",id="descripcion-del-proyecto">Descripción del Proyecto</h2>
 
- <h3  align="center"><br>Nombre del Proyecto: Amigo Secreto</br></h3>
 
 <p1 align="center"> Descripción General:
 
