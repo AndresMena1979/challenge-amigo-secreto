@@ -85,6 +85,16 @@ Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin s
 <h3 align="center"><br>Desarrollador</br></h3>
 <p align="center">Andres Fernando Mena G</p>
 
-<h3 align="center"><br>Conclusión</br></h3>
-   
-Este proyecto es una excelente base para aprender conceptos fundamentales de programación web, como la manipulación del DOM, validación de formularios y generación de resultados aleatorios en JavaScript.
+<h3 align="center"><br>Conclusión del Proyecto</br></h3>
+ 
+
+El desarrollo de este proyecto de "Amigo Secreto" ha permitido la implementación de conceptos clave en JavaScript, como la manipulación del DOM, validación de datos y generación de valores aleatorios.
+
+A través de funciones bien estructuradas, el sistema garantiza que:
+ Se capturen y almacenen nombres sin duplicaciones.
+ Se visualice una lista dinámica de participantes.
+ Se realice un sorteo aleatorio asegurando que cada amigo solo sea seleccionado una vez.
+
+Además, se han considerado validaciones esenciales, como evitar entradas vacías y restringir el sorteo cuando no hay suficientes participantes.
+
+Este proyecto no solo cumple con su propósito de asignar un amigo secreto de manera justa, sino que también representa una excelente base para seguir explorando interactividad en la web y mejorar la experiencia de usuario con nuevas funcionalidades.
