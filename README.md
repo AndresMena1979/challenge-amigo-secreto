@@ -39,8 +39,14 @@ El proyecto "Amigo Secreto" es una aplicación web interactiva desarrollada en H
 <p2 align="left"><br>:inbox_tray:1.Agregar Amigos</br>
 
 <br>Los usuarios pueden ingresar nombres en un campo de texto.</br>
+
+![1 agregar amigo](https://github.com/user-attachments/assets/8088a43e-e73f-49ed-b5bb-e9c9342b1e31)
+
+
 <br>El sistema valida que el nombre no esté vacío ni duplicado en la lista.</br>
 Los amigos se agregan dinámicamente a una lista en pantalla.</p2>
+
+![2 caja vacia](https://github.com/user-attachments/assets/f0d93e28-5ad0-4c3f-9209-39bb241eddf5)
 
 <p3 align="left"><br>:pencil:2.Visualización de la Lista:</br>
 
