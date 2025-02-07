@@ -2,15 +2,13 @@
 
 Índice
 
-*[Título e imagen de portada](#Challenge-Amigo-Secreto)
+*[Título e imagen de portada](#Nombre-del-Proyecto)
 
 *[Insignias](#insignias)
 
 *[Descripción del proyecto](#Descripción-General)
 
 *[Funcionalidades Principales](#Funcionalidades-Principales)
-
-*[1.Agregar Amigos](#Agregar-Amigos)
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
