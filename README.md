@@ -2,7 +2,7 @@
 
 <h2>📌 Índice</h2>
 <ul>
-  <li><a href="#descripcion-del-proyecto:-Amigo-Secreto"Descripción del Proyecto: Amigo Secreto</a></li>
+  <li><a href="#descripcion-del-proyecto">Descripción del Proyecto</a></li>
   <li><a href="#funcionalidades-principales">Funcionalidades Principales</a>
     <ul>
       <li><a href="#agregar-amigos">Agregar Amigos</a></li>
