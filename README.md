@@ -2,11 +2,11 @@
 
 Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[Título e imagen de portada](#Challenge-Amigo-Secreto)
 
 *[Insignias](#insignias)
 
-*[Descripción del proyecto](#Descripción del Proyecto)
+*[Descripción del proyecto](#Descripción-del-Proyecto)
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
