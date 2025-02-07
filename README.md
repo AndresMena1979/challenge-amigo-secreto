@@ -2,9 +2,9 @@
 
 ## 📌 Índice
 
-1. [Descripción del Proyecto: Amigo Secreto](#Descripción-del-Proyecto:-Amigo-Secreto)
+1. [Descripción del Proyecto](#Descripción-del-Proyecto)
 2. [Funcionalidades Principales](#funcionalidades-principales)
-   - [Agregar Amigos](#agregar-amigos)
+   - [Agregar Amigos](#1.Agregar-Amigos)
    - [Visualización de la Lista](#2.visualizacion-de-la-lista)
    - [Sorteo de Amigo Secreto](#sorteo-de-amigo-secreto)
    - [Validaciones](#validaciones)
@@ -38,7 +38,7 @@ El proyecto "Amigo Secreto" es una aplicación web interactiva desarrollada en H
 
 <h3 align="center">Funcionalidades Principales:</h3>
 
-<p2 align="left"><br>:inbox_tray: 1.Agregar Amigos:</br>
+<p2 align="left"><br>:inbox_tray:1.Agregar Amigos</br>
 
 Los usuarios pueden ingresar nombres en un campo de texto.
 El sistema valida que el nombre no esté vacío ni duplicado en la lista.
