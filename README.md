@@ -6,7 +6,7 @@
 
 *[Insignias](#insignias)
 
-*[Descripción del proyecto](#Descripción-del-Proyecto)
+*[Descripción del proyecto](#Descripción-General)
 
 *[Funcionalidades Principales](#Funcionalidades-Principales)
 
