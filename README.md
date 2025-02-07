@@ -8,7 +8,7 @@
    - [Visualización de la Lista](#visualizacion-de-la-lista)
    - [Sorteo de Amigo Secreto](#sorteo-de-amigo-secreto)
    - [Validaciones](#validaciones)
-3. [Objetivos del Proyecto](#objetivos-del-proyecto)
+3. [Objetivos del Proyecto](##objetivos-del-proyecto)
 4. [Tecnologías Utilizadas](#tecnologias-utilizadas)
 5. [Acceso al Proyecto](#acceso-al-proyecto)
 6. [Jugar en Línea](#jugar-en-linea)
@@ -26,15 +26,11 @@
 
 <h2  align="center"><br>:page_facing_up:Descripción del Proyecto: Amigo Secreto<br/></h2>
 
- 
-
- h3align="center"><br>Nombre del Proyecto: Amigo Secreto</br></h3>
-   
-<h2 id="descripcion-del-proyecto">Descripción del Proyecto</h2>
 
 
+ <h3  align="center"><br>Nombre del Proyecto: Amigo Secreto</br></h3>
 
-<p1 align="center"> Descripción General:</p1>
+<p1 align="center"> Descripción General:
 
 El proyecto "Amigo Secreto" es una aplicación web interactiva desarrollada en HTML, CSS y JavaScript. Su objetivo principal es permitir a los usuarios agregar una lista de amigos y realizar un sorteo aleatorio para asignar un "amigo secreto" a cada participante, asegurando que no se repitan los nombres sorteados.</p1>
 
