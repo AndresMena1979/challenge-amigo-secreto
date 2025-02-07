@@ -5,7 +5,7 @@
 1. [Descripción del Proyecto](#descripcion-del-proyecto)
 2. [Funcionalidades Principales](#funcionalidades-principales)
    - [Agregar Amigos](#agregar-amigos)
-   - [Visualización de la Lista](#visualizacion-de-la-lista)
+   - [Visualización de la Lista](#2.visualizacion-de-la-lista)
    - [Sorteo de Amigo Secreto](#sorteo-de-amigo-secreto)
    - [Validaciones](#validaciones)
 3. [🎯 Objetivos del Proyecto](#objetivos-del-proyecto)
@@ -44,7 +44,7 @@ Los usuarios pueden ingresar nombres en un campo de texto.
 El sistema valida que el nombre no esté vacío ni duplicado en la lista.
 Los amigos se agregan dinámicamente a una lista en pantalla.</p2>
 
-<p3 align="left"><br>:pencil: 2.Visualización de la Lista:</br>
+<p3 align="left"><br>:pencil:2.Visualización de la Lista:</br>
 
 Cada nombre ingresado se muestra en una lista actualizada en tiempo real.
 La lista se actualiza automáticamente cada vez que se añade o elimina un amigo.</p3>
