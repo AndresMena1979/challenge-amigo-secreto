@@ -16,7 +16,7 @@
 8. [Conclusión](#conclusion)
 
 
-<h1 align="center"> Challenge-Amigo-Secreto 
+<h1 align="center"<br> Challenge-Amigo-Secreto</br> 
   
    ![amigo secreto](https://github.com/user-attachments/assets/84070e05-008b-439a-8e37-d545ead7c4bb)</h1>
 
@@ -36,17 +36,17 @@ El proyecto "Amigo Secreto" es una aplicación web interactiva desarrollada en H
 
 <h3 align="center">Funcionalidades Principales:</h3>
 
-<p2 align="left"><br>:inbox_tray:1.Agregar Amigos</br>
+<p2 align="left"><br>:inbox_tray:1.Agregar Amigos</br></p>
 
 <br>Los usuarios pueden ingresar nombres en un campo de texto.</br>
-![1 agregar amigo](https://github.com/user-attachments/assets/8088a43e-e73f-49ed-b5bb-e9c9342b1e31)
+<br>![1 agregar amigo](https://github.com/user-attachments/assets/8088a43e-e73f-49ed-b5bb-e9c9342b1e31)</br>
 
 
 <br>El sistema valida que el nombre no esté vacío ni duplicado en la lista.</br>
-![2 caja vacia](https://github.com/user-attachments/assets/e9ca3331-c089-436e-beb0-388a24d5f576)
+<br>![2 caja vacia](https://github.com/user-attachments/assets/e9ca3331-c089-436e-beb0-388a24d5f576)</br>
 
-Los amigos se agregan dinámicamente a una lista en pantalla.</p2>
-![3 lista amigos](https://github.com/user-attachments/assets/99051025-84ef-49d5-9eb5-505e7d7f72fd)
+<br>Los amigos se agregan dinámicamente a una lista en pantalla.</br>
+<br>![3 lista amigos](https://github.com/user-attachments/assets/99051025-84ef-49d5-9eb5-505e7d7f72fd)</br>
 
 <p3 align="left"><br>:pencil:2.Visualización de la Lista:</br>
 
@@ -59,13 +59,13 @@ La lista se actualiza automáticamente cada vez que se añade o elimina un amigo
 <br>Se puede realizar un sorteo aleatorio de un "amigo secreto".</br>
 <br>El nombre sorteado se elimina de la lista para evitar repeticiones en sorteos futuros.</br>
 Se garantiza que cada amigo solo pueda ser sorteado una vez.</p4>
-![4 borra lista](https://github.com/user-attachments/assets/c976e663-4b38-42e9-bfa6-e8f35ddac577)
+<br>![4 borra lista](https://github.com/user-attachments/assets/c976e663-4b38-42e9-bfa6-e8f35ddac577)</br>
 
 <p5 align="left"><br>:warning:4.Validaciones:</br>
 
 <br>Se requiere como mínimo un amigo para iniciar el sorteo.</br>
 Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin suficientes participantes. </p5>
-![5  amigo repetido](https://github.com/user-attachments/assets/1d07e562-7a1e-4ca7-882a-050929b61f53)
+<br>![5  amigo repetido](https://github.com/user-attachments/assets/1d07e562-7a1e-4ca7-882a-050929b61f53)</br>
 
 <h3 align="center"><br>:muscle:Objetivos del Proyecto:</b></h3>
 
