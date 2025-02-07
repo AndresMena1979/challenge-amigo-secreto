@@ -8,7 +8,7 @@
    - [Visualización de la Lista](#visualizacion-de-la-lista)
    - [Sorteo de Amigo Secreto](#sorteo-de-amigo-secreto)
    - [Validaciones](#validaciones)
-3. [Objetivos del Proyecto](#objetivos-del-proyecto)
+3. [Objetivos del Proyecto](##objetivos-del-proyecto)
 4. [Tecnologías Utilizadas](#tecnologias-utilizadas)
 5. [Acceso al Proyecto](#acceso-al-proyecto)
 6. [Jugar en Línea](#jugar-en-linea)
@@ -61,8 +61,8 @@ Se requiere un mínimo de tres amigos para iniciar el sorteo.
 Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin suficientes participantes. </p5>
 
 
+<h3 align="center"><br>:muscle: Objetivos del Proyecto:</b></h3>
 
-##Objetivos del Proyecto
 
 <br>1.Fortalecer habilidades en lógica de programación.</br>
 <br>2.Practicar el manejo de arreglos y bucles en JavaScript.</br>
