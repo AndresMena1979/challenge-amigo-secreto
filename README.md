@@ -1,24 +1,18 @@
 ![GitHub Stars](https://img.shields.io/github/stars/AndresMena1979/challenge-amigo-secreto?style=social)
 
-Índice
+## 📌 Índice
 
-*[Título e imagen de portada](#Nombre-del-Proyecto)
-
-*[Insignias](#insignias)
-
-*[Descripción del Proyecto: Amigo Secreto](#Descripción-del-Proyecto:-Amigo-Secreto)
-
-*[Funcionalidades Principales](#Funcionalidades-Principales)
-
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-*[Acceso al proyecto](#acceso-proyecto)
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-*[Conclusión](#conclusión)
+1. [Descripción del Proyecto](#descripcion-del-proyecto)
+2. [Funcionalidades Principales](#funcionalidades-principales)
+   - [Agregar Amigos](#agregar-amigos)
+   - [Visualización de la Lista](#visualizacion-de-la-lista)
+   - [Sorteo de Amigo Secreto](#sorteo-de-amigo-secreto)
+   - [Validaciones](#validaciones)
+3. [🎯 Objetivos del Proyecto](#objetivos-del-proyecto)
+4. [🛠 Tecnologías Utilizadas](#tecnologias-utilizadas)
+5. [🚀 Acceso al Proyecto](#acceso-al-proyecto)
+6. [🎮 Jugar en Línea](#jugar-en-linea)
+7. [👨‍💻 Desarrollador](#desarrollador)
 
 
 
