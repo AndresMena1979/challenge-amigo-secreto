@@ -8,12 +8,14 @@ function agregarAmigo() {
       
 
     let capturaAmigos= document.getElementById("amigo").value;  //captura los amigos escritos en en la caja de texto
-
+    let result = document.getElementById("resultado"); 
+         
       
     if (capturaAmigos === "")                                 // envia mensaje si la caja de texto esta vacia y dan clic en el boton Añadir
         {
           
-          return alert("Por favor, inserte un nombre de un amigo." );
+          cambiaAnunciosResultado("Por favor, inserte un nombre de un amigo.");   /*llama a la funcion cambiaAnunciosResultados, para colocar la leyenda en la etiqueta ListaAmigos 
+                                                                                   "Por favor, inserte un nombre de un amigo.";*/
 
     } else
      {
@@ -21,19 +23,23 @@ function agregarAmigo() {
         
         if(ingresaAmigos.includes(capturaAmigos)){            //verifica que el amigo no este repetido, y si lo esta, borra el valor en la caja de texto y llama de nuevo a la funcion
 
-        alert ("Este amigo ya esta en la lista");                            //genera mensaje que especifica que el amigo introducido esta reducido 
+                                                              //genera mensaje que especifica que el amigo introducido esta repetido 
+         
+                      
+         reiniciaCajaTexto();                                //funcion para borrar nombre de la caja de texto 
 
-        
-        reiniciaCajaTexto();                                //funcion para borrar nombre de la caja de texto 
-        
+                 
+         //agregarAmigo();                                      //se llama nuevamente a la funcion para que se pueda agregar otro amigo
+                                                             
+         cambiaAnunciosResultado("Este amigo ya esta en la lista");  //funcion que coloca el mensaje en la etiqueta resultado
 
-           return agregarAmigo();                          //se llama nuevamente a la funcion para que se pueda agregar otro amigo
-           
+           return;                             
         
     }else{                                                
 
 
-        
+        result.innerHTML = "";
+
         ingresaAmigos.push(capturaAmigos);               // ingresa al nuevo amigo a la lista y lo envia al final de esta
 
         agregarAmigosLista(ingresaAmigos);               // llama a la funcion agregarElementosLista
@@ -53,19 +59,21 @@ function agregarAmigo() {
 }
 
 
-function agregarAmigosLista(elemento){                       //funcion para agregar nombres a una lista en html
+function agregarAmigosLista(elemento){                       //funcion para agregar nombres a una lista en 
 
     let lista = document.getElementById("listaAmigos"); 
     lista.innerHTML = "";                                   // Limpia la lista para evitar duplicados 
+    
+    let contenidoLista="";
 
    for (let i=0; i< elemento.length;i++){                   //  bucle for para recorrer el arreglo ingresaAmigos y crear elementos de lista (<li>) para cada título.
                     
-       lista.innerHTML += `<li>${elemento[i]}</li>`;        //+=: agrega uno por uno los amigos a la lista;
+    contenidoLista += `<li>${elemento[i]}</li>`;           //+=: agrega uno por uno los amigos a la varaible contenidoLista;
 
            
    }      
     
-        
+   lista.innerHTML = contenidoLista                        //lista.innerHTML se actualiza 1 vez
 
       
    }
@@ -88,16 +96,22 @@ function sortearAmigo(){                        //función que seleccione de man
        
    
   
-      if (ingresaAmigos.length < 1) {                                                     // revisa que como minimo el array tenga dos amigos agregados para permitir jugar
-        alert("Por favor, ingresa al menos 1 amigos.");
-        return;
+      if (ingresaAmigos.length < 1) {                                       // revisa que como minimo el array tenga 1 amigo agregado para permitir jugar
+        
+                                                                            
+
+        cambiaAnunciosResultado("Por favor, ingresa al menos 1 amigo.");   //funcion que coloca el mensaje en la etiqueta resultado en el html
+
+        
+        return ;
     } 
   
       else {
 
-        let result = document.getElementById("resultado"); 
-        result.innerHTML = "";                                                       // Limpia la lista para evitar duplicados
-        result.innerHTML += `Tu amigo secreto es: ${ingresaAmigos[numeroGenerado]}`;   //genera el aviso de quien es el amigo secreto escogido al azar
+                                                                                            
+                                                                                       
+
+        cambiaAnunciosResultado(`Tu amigo secreto es: ${ingresaAmigos[numeroGenerado]}`) //funcion que coloca el mensaje en la etiqueta resultado en el html
                  
         ingresaAmigos.splice(numeroGenerado, 1);                                          //Elimina al amigo que ya fue seleccionado, esto para que no se vuelva a seleccionar nuevamente
        
@@ -115,4 +129,10 @@ function sortearAmigo(){                        //función que seleccione de man
 }
 
 
+function cambiaAnunciosResultado(anuncio){
 
+  let result = document.getElementById("resultado");                           
+  result.innerHTML = "";                                                      // Limpia la lista para evitar duplicados
+  result.innerHTML += anuncio                                                 //genera el aviso en la etiqueta resultados en el html
+
+  }
