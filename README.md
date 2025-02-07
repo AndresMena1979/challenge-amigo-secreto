@@ -2,7 +2,7 @@
 
 ## 📌 Índice
 
-1. [Descripción del Proyecto:Amigo Secreto](#descripcion-del-proyecto:Amigo-Secreto)
+1. [Descripción del Proyecto: Amigo Secreto](#Descripción-del-Proyecto:-Amigo-Secreto)
 2. [Funcionalidades Principales](#funcionalidades-principales)
    - [Agregar Amigos](#agregar-amigos)
    - [Visualización de la Lista](#2.visualizacion-de-la-lista)
