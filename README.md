@@ -61,7 +61,7 @@ Se requiere un mínimo de tres amigos para iniciar el sorteo.
 Alertas en caso de intentar ingresar nombres duplicados o realizar sorteos sin suficientes participantes. </p5>
 
 
-<h3 align="center"><br>:muscle: Objetivos del Proyecto:</b></h3>
+
 ##Objetivos del Proyecto
 
 <br>1.Fortalecer habilidades en lógica de programación.</br>
