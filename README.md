@@ -52,14 +52,14 @@ Los amigos se agregan dinámicamente a una lista en pantalla.</p2>
 
 <br>Cada nombre ingresado se muestra en una lista actualizada en tiempo real.</br>
 La lista se actualiza automáticamente cada vez que se añade o elimina un amigo.</p3>
-![4 borra lista](https://github.com/user-attachments/assets/c976e663-4b38-42e9-bfa6-e8f35ddac577)
+
 
 <p4 align="left"><br>:clubs:3.Sorteo de Amigo Secreto:</br>
 
 <br>Se puede realizar un sorteo aleatorio de un "amigo secreto".</br>
 <br>El nombre sorteado se elimina de la lista para evitar repeticiones en sorteos futuros.</br>
 Se garantiza que cada amigo solo pueda ser sorteado una vez.</p4>
-
+![4 borra lista](https://github.com/user-attachments/assets/c976e663-4b38-42e9-bfa6-e8f35ddac577)
 
 <p5 align="left"><br>:warning:4.Validaciones:</br>
 
