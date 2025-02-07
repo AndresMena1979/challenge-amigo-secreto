@@ -8,8 +8,9 @@
 
 *[Descripción del proyecto](#Descripción-del-Proyecto)
 
-*[Funcionalidades Principale](#Funcionalidades-Principales)
-  *[1.Agregar Amigos](#Agregar-Amigos)
+*[Funcionalidades Principales](#Funcionalidades-Principales)
+
+*[1.Agregar Amigos](#Agregar-Amigos)
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
