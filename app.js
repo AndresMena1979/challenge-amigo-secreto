@@ -75,14 +75,17 @@ function agregarAmigosLista(elemento){                       //funcion para agre
     
    lista.innerHTML = contenidoLista                        //lista.innerHTML se actualiza 1 vez
 
-      
+   return;   
+
    }
 
 
 
 function reiniciaCajaTexto() {                  //funcion para borrar nombre digitado de la caja de texto
 
-    document.getElementById("amigo").value="";
+    
+
+    return document.getElementById("amigo").value="";;
 
 }
 
@@ -134,5 +137,7 @@ function cambiaAnunciosResultado(anuncio){
   let result = document.getElementById("resultado");                           
   result.innerHTML = "";                                                      // Limpia la lista para evitar duplicados
   result.innerHTML += anuncio                                                 //genera el aviso en la etiqueta resultados en el html
+
+  return;
 
   }
